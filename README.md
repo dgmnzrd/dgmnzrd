@@ -164,13 +164,6 @@
 
 <br>
 
-<!-- Spotify Status -->
-<div>
-  <a href="https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB">
-    <img src="https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="400" />
-  </a>
-</div>
-
 </div>
 
 ---
