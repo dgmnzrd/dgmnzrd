@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="static/css/README.css" />
+
 <h1 align="center">
   <a href="https://github.com/dgmnzrd">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=I'm+Rede+%F0%9F%91%8B;Web+%26+iOS+Developer;Rock+%26+Metal+Fan+%F0%9F%A4%98;Turtle+Lover+%F0%9F%90%A2" alt="Typing SVG" />
@@ -31,7 +33,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgmnzrd/dgmnzrd/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dgmnzrd/dgmnzrd/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dgmnzrd/dgmnzrd/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -77,54 +78,6 @@
     </li>
   </ul>
 </div>
-
-<style>
-.about-container {
-  max-width: 800px;
-}
-
-.about-list {
-  list-style: none;
-  padding: 0;
-}
-
-.about-item {
-  display: flex;
-  margin-bottom: 10px;
-  animation: fadeIn 1.5s ease-in-out;
-}
-
-.about-icon {
-  font-size: 1.2em;
-  margin-right: 12px;
-  width: 24px;
-  text-align: center;
-}
-
-.about-text {
-  flex: 1;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.about-item:nth-child(1) { animation-delay: 0.1s; }
-.about-item:nth-child(2) { animation-delay: 0.2s; }
-.about-item:nth-child(3) { animation-delay: 0.3s; }
-.about-item:nth-child(4) { animation-delay: 0.4s; }
-.about-item:nth-child(5) { animation-delay: 0.5s; }
-.about-item:nth-child(6) { animation-delay: 0.6s; }
-.about-item:nth-child(7) { animation-delay: 0.7s; }
-.about-item:nth-child(8) { animation-delay: 0.8s; }
-</style>
 
 ## 🛠️ Tech Stack
 
@@ -183,23 +136,6 @@
     </td>
   </tr>
 </table>
-
-<style>
-.progress-bar {
-  width: 100%;
-  background-color: #2d2d2d;
-  border-radius: 5px;
-  overflow: hidden;
-  margin-top: 5px;
-}
-
-.progress-bar span {
-  display: block;
-  height: 10px;
-  background: linear-gradient(to right, #ff0844, #ffb199);
-  text-indent: -9999px;
-}
-</style>
 
 <div align="center">
   
@@ -260,35 +196,6 @@
     </div>
   </div>
 </div>
-
-<style>
-.typewriter-container {
-  display: flex;
-  justify-content: center;
-  margin: 20px 0;
-}
-
-.typewriter p {
-  overflow: hidden;
-  border-right: .15em solid orange;
-  white-space: nowrap;
-  margin: 0 auto;
-  letter-spacing: .15em;
-  animation: 
-    typing 3.5s steps(40, end),
-    blink-caret .75s step-end infinite;
-}
-
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
-}
-</style>
 
 <!-- Fun Easter Egg: The turtle is always slow but never gives up! 🐢 -->
 <!-- Last updated: May 2025 by dgmnzrd -->
