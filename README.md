@@ -57,10 +57,6 @@
       <span class="about-text">From <strong>Torreón, Coahuila, Mexico</strong> — proudly <strong>Lagunero</strong></span>
     </li>
     <li class="about-item">
-      <span class="about-icon">🐱</span>
-      <span class="about-text">Known as a <strong>Black Cat</strong> in my university</span>
-    </li>
-    <li class="about-item">
       <span class="about-icon">💻</span>
       <span class="about-text"><strong>FullStack Web Developer</strong> specialized in <strong>PHP</strong> and <strong>Laravel</strong></span>
     </li>
